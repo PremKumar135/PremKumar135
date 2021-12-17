@@ -7,3 +7,4 @@
 - 💬 Ask me about Python and Data Science.
 - 📫 How to reach me: kpkumar135@gmail.com
 - ⚡ Fun fact: Loves Data crunching, Cricket and Anime.
+- :mag: https://premkumar135.github.io/PremKumar
