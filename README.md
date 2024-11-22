@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- 🔭 Data Scientist with 6+ yrs of experience in IT, currently working in Quantiphi Analytics Solutions.
+- 🔭 Data Scientist with 7+ yrs of experience in IT, currently working in Quantiphi Analytics Solutions.
 - 🌱 I’m currently learning AWS and Sytem Design
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 Interested in DSA and System Design.
