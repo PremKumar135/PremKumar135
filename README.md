@@ -3,7 +3,7 @@
 - 🔭 Senior Data Scientist with 9+ yrs of experience in IT, currently working in Fractal.
 - 🌱 I’m currently working on Generative AI and AI Agents space.
 - 👯 I’m looking to collaborate on Data Science Projects.
-- 🤔 Interested in ML, DL, DSA and System Design.
+- 🤔 Interested in ML, DL, GenAI, Agentic AI, DSA and System Design.
 - 💬 Ask me about Python and Data Science.
 - 📫 How to reach me: kpkumar135@gmail.com
 - ⚡ Fun fact: Loves Data crunching, Cricket and Anime.
